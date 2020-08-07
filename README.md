@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### Soy programador BackEnd, me espacializo en VB.Net y C#. Pero tambien trabajo con JS, Python y Go.
+#### Tambien tengo conocimientos en desarrollo Web y de aplicaciones IOS y Android.
 
 <!--
 **jmvs1991/jmvs1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
