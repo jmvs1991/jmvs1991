@@ -26,6 +26,12 @@
   
 #### Framework CSS
   - Bootstrap: Empleado para crear pagínas web responsive, utlizado en cojunto con SASS para poder crear temas según las necesidades de cada pagína.
+  
+#### Android
+  - [B4A](https://www.b4x.com/b4a.html): Es un IDE para el desarrollo de aplicaciones android nativas, utiliza lenguaje VB que es convertido a Java. Como resultado se pueden crear aplicaciones nativas para Android. Actualmente es OpenSource y dispone de una comunidad que crece día a día.
+  
+#### IOS
+  - [B4I](https://www.b4x.com/b4i.html): Es un IDE para el desarrollo de aplicaciones IOS nativas, utiliza lenguajes VB. Como resultado se pueden crear aplicaciones nativas para IOS. Es de licencia paga. 
 
 <!--
 **jmvs1991/jmvs1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
