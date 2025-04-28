@@ -1,49 +1,86 @@
-### Hi there 👋
 
-#### Soy programador BackEnd, trabajo mayormente con VB.Net y C# pero tambien tengo conocimientos de JS, TypeScript y Python. Hago desarrollo de aplicaciones de escritorio, Web, IOS y Android.
-#### Aunque me gusta más trabajar con el BackEnd puedo hacer trabajo con CSS y Html para el diseño web, no soy el mejor pero trato de mejorar cada día.
+# 👋 Hi, I'm José Manuel Vásquez Suárez
 
-##### BackEnd
-  - VB.Net: Lenguaje empleado en la mayoría de mis trabajos. Utilizado para crear aplicaciones de escritorio, servicios web Asmx y como back para pagínas web.
-  - C#: Tambien utilizado en la mayoria de trabajos, mayormente para crear RestApi.
-  - JS: Personalmente utilizado en proyectos personales para crear servidores Socket implementando Socket.io para crear conexiones en tiempo real. Tambien utilizado para crear un servidor GraphQL conectado con una base de datos MongoDB.
-  - TypeScript: Utilizo para TypeScript para poder escribir mejor código de JS, lo empleo en los proyectos Angular por ser el estandar y me encanta.
-  - Python: Realizando practicas a nivel personal para apreder, usado para realizar web scrapping para hacer seguimientos de precio diarios de diferentes artículos y determinar si las ofertas ofrecidas por ciertas pagínas son reales o no. Y en proceso de aprendizaje para emplearlo en machine learning.
+🌍 Montevideo, Uruguay · 📧 josevasquez.dev@gmail.com · 📱 +598 097 357 951 · [🔗 LinkedIn](https://www.linkedin.com/in/jmvsdev)
 
-#### Base de datos
-  - SqlServer: Base de datos utilizada en la mayoría de mis trabajos. Utilizo sintaxis básica de Sql como consultas, update, insert y delete aunque también hago procedimientos almacenados, funciones, triggers y para crear tareas automaticas de sql. Diseño y mantenimiento de base de datos.
-  - Oracle: Utilizo sintaxis básica de Sql como consultas, update, insert y delete aunque también hago procedimientos almacenados, funciones y triggers.
-  - PostgreSQL: Utilizo sintaxis básica de Sql como consultas, update, insert y delete aunque también hago procedimientos almacenados, funciones, triggers.
-  - MongoDB: Utilizado a nivel personal para trabajar con un servidor GraphQL.
- 
-#### Frameworks y librerias JS para SPA.
-  - Angular: Utilizo Angular a nivel personal para crear un proyecto que se conecte con una ApiRest construido en C#, un servidor Socket construido con NodeJS para hacer conexiones en tiempo real y un servidor GraphQL.
-  - React: Utilizo React a nivel personal para crear un proyecto que se conecte con una ApiRest.
+---
 
-#### Preprocesador CSS y Html
-  - SASS: Utilizo SASS para poder escribir CSS de mayor calidad, lo empleo en proyectos angular.
-  - PUG: Utilizo PUG para poder escribir sintaxis html con mayor facilidad y poder reutilizar diseño aprovechando sus bondades. Aunque lo descarto al momento de usar Angular o React ya que aprovecho los compenentes.
-  
-#### Framework CSS
-  - Bootstrap: Empleado para crear pagínas web responsive, utlizado en cojunto con SASS para poder crear temas según las necesidades de cada pagína.
-  
-#### Android
-  - [B4A](https://www.b4x.com/b4a.html): Es un IDE para el desarrollo de aplicaciones android nativas, utiliza lenguaje VB que es convertido a Java. Como resultado se pueden crear aplicaciones nativas para Android. Actualmente es OpenSource y dispone de una comunidad que crece día a día.
-  
-#### IOS
-  - [B4I](https://www.b4x.com/b4i.html): Es un IDE para el desarrollo de aplicaciones IOS nativas, utiliza lenguajes VB. Como resultado se pueden crear aplicaciones nativas para IOS. Es de licencia paga. 
+## 👨‍💻 About Me
 
-<!--
-**jmvs1991/jmvs1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Developer** with over **8 years of professional experience** in the software industry, specialized in building robust solutions with **C#**, **.NET**, and **Microservices** architectures.  
+Passionate about **automating critical processes**, creating **scalable systems**, and working in **agile environments** focused on continuous improvement.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### 🛫 **Etraveli Group** — *Ssr Back End Developer*  
+_November 2023 – Present · Montevideo, Uruguay_
+
+- Automation of voluntary flight booking changes (Rebook).
+- Integration with multiple GDS systems and optimization of critical workflows.
+- Reduction of manual interventions and improvement of customer response times.
+
+### 🧳 **Travelgenio** — *Sr Back End Developer*  
+_June 2021 – April 2023 · Montevideo, Uruguay_
+
+- Development of post-sales services (cancellations, changes, refunds).
+- Migration towards a microservices architecture.
+- Implementation of CI/CD pipelines for reliable and frequent deployments.
+
+### 🏢 **Sipare** — *FullStack Developer*  
+_April 2018 – May 2021 · Buenos Aires, Argentina_
+
+- Development of mobile apps for condo payment solutions.
+- Maintenance of internal administrative web platforms.
+
+### 🌐 **BM Soluciones** — *Developer*  
+_March 2016 – February 2018 · Lara, Venezuela_
+
+- Development of web and mobile solutions for multiple clients across different industries.
+- Technical leadership in key projects.
+
+---
+
+## 🛠️ Highlight Projects
+
+| Project | Description | Technologies |
+|:--------|:------------|:-------------|
+| **Automated Toll System** | RFID-based automated toll collection system with mobile and web apps for users and internal operations. | C#, Angular, React, React Native |
+| **Medical Appointments Management System** | Scheduling, history tracking, and attendance control for healthcare centers. | C#, Angular |
+| **Parking Management System** | RFID access control, payment systems, and mobile apps for users. | C#, Angular, React Native |
+| **Paddle Machine Control App** | Bluetooth-based mobile app to configure and control paddle ball machines. | C#, .NET MAUI, Bluetooth |
+| **WiFi Access Control by Tickets** | Prepaid ticket WiFi access system integrated with MikroTik routers. | C#, React Native, Angular, MikroTik API |
+
+---
+
+## 📚 Education
+
+🎓 **Systems Analyst**  
+Centro Occidental Lisandro Alvarado University (UCLA) — _May 2007_
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** [josevasquez.dev@gmail.com](mailto:josevasquez.dev@gmail.com)
+- 📱 **Phone:** [+598 097 357 951](tel:+598097357951)
+- 🌐 **LinkedIn:** [linkedin.com/in/jmvsdev](https://www.linkedin.com/in/jmvsdev)
+
+---
+
+⭐ Thank you for visiting my profile! ⭐
